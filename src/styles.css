@@ -1,1 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
+.navbar-inverse {
+  background-color: brown;
+}
+
+body {
+  background: url(http://www.dealermarketing.com/wp-content/uploads/2014/11/shutterstock_155256500-set-of-tools-in-tool-box-on-a-wooden-background-slider-860x450_c.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.titletext {
+  background-color: white;
+  width: 40%;
+  position: flex;
+  color: brown;
+  border-color: red;
+  border-radius: 1em;
+  margin:0px auto;
+  padding: 2px;
+}
+
+.bodytext {
+  background-color: white;
+  color: brown;
+  margin:0px auto;
+}
